@@ -1,5 +1,5 @@
 CREATE DATABASE murder_case;
-USE forensics;
+USE murder_case;
 
 SELECT * FROM call_records_large;
 SELECT * FROM access_logs_large;
